@@ -117,7 +117,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Boredooms&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00FFFF&icon_color=FF6B35&text_color=FFFFFF&border_radius=20" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boredooms&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00FFFF&icon_color=FF6B35&text_color=FFFFFF&border_radius=20" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suparna39&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00FFFF&icon_color=FF6B35&text_color=FFFFFF&border_radius=20" width="45%"/>
 </div>
 
 
