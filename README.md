@@ -5,7 +5,7 @@
   <h1 style="font-family: 'Fira Mono', 'Consolas', monospace; color: #00fff7; font-size: 2.5em; letter-spacing: 2px; text-shadow: 0 0 10px #00fff7, 0 0 20px #00fff7;">
     <span style="filter: drop-shadow(0 0 8px #00fff7);">▞▚▞▚</span> Suparna Panda <span style="filter: drop-shadow(0 0 8px #00fff7);">▚▞▚▞</span>
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=900&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=60&lines=⚡+AI/ML-DEVELOPER+%7C+Web3+Explorer+%7C+AI+NEURAL+ENGINEER+%7C+HACKATHON+DOMINATOR+%7C+WEB2+PIONEER+%7C+FUTURE+ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=900&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=60&lines=⚡+AIML+DEVELOPER+%7C+Web3+EXPLORER+%7C+AI+NEURAL+ENGINEER" alt="Typing SVG" />
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Matrix_Rain.gif" width="100%" height="18" alt="matrix rain divider"/>
 </div>
 
