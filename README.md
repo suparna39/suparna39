@@ -41,14 +41,14 @@
 <img src="https://img.shields.io/badge/Quantum%20Profile-00fff7?style=for-the-badge&logo=quantconnect&logoColor=black" alt="Quantum Profile"/>
 
 <pre>
-<span style="color:#00fff7;">const</span> <b>DevarghoChakraborty</b> = &#123;
-  <span style="color:#00fff7;">alias</span>: <b>"The Quantum Architect"</b>,
+<span style="color:#00fff7;">const</span> <b>SuparnaPanda</b> = &#123;
+  <span style="color:#00fff7;">alias</span>: <b>"The AI-ML Architect"</b>,
   <span style="color:#00fff7;">origin</span>: <b>"Digital India Matrix 🇮🇳"</b>,
-  <span style="color:#00fff7;">dimensions</span>: ["Frontend", "Blockchain", "AI", "Web3"],
+  <span style="color:#00fff7;">dimensions</span>: ["Frontend", "Blockchain", "AI/ML", "Web3"],
   <span style="color:#00fff7;">superpower</span>: <b>"Converting caffeine to code"</b>,
   <span style="color:#00fff7;">mission</span>: <b>"Architecting the decentralized future"</b>,
   <span style="color:#00fff7;">status</span>: <b>"Building tomorrow's reality today"</b>,
-  <span style="color:#00fff7;">hackathonWins</span>: <b>5</b>,
+  <span style="color:#00fff7;">hackathonattended</span>: <b>5</b>,
   <span style="color:#00fff7;">projectsLaunched</span>: <b>"∞"</b>,
   <span style="color:#00fff7;">funFact</span>: <b>"I debug with quantum intuition! 🧠⚡"</b>
 &#125;;
@@ -172,6 +172,6 @@
   <br>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600" alt="Snake eating commits"/>
   <br>
-  <strong style="color:#00fff7; font-family: 'Fira Mono', monospace;">⚡ FROM THE DIGITAL DIMENSION OF <a href="https://github.com/Boredooms" style="color:#00fff7;">DEVARGHO CHAKRABORTY</a> ⚡</strong>
+  <strong style="color:#00fff7; font-family: 'Fira Mono', monospace;">⚡ FROM THE DIGITAL DIMENSION OF <a href="https://github.com/Boredooms" style="color:#00fff7;">SUPARNA PANDA</a> ⚡</strong>
 </div>
-  <a href="mailto:devargho.chakraborty@gmail.com">
+  <a href="mailto:pandatithi93@gmail.com">
