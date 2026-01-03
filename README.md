@@ -137,19 +137,19 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/devargho-chakraborty" title="LinkedIn">
+  <a href="https://linkedin.com/in/suparna-panda" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/DevarghoC" title="Twitter">
+  <a href="https://twitter.com/Suparna2612" title="Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://github.com/Boredooms" title="GitHub">
+  <a href="https://github.com/suparna39" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://devargho.dev" title="Portfolio">
+  <!-- <a href="https://devargho.dev" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:devargho.chakraborty@gmail.com" title="Email">
+  </a> -->
+  <a href="mailto:pandatithi93@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Quantum_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
