@@ -116,17 +116,17 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Boredooms&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00FFFF&icon_color=FF6B35&text_color=FFFFFF&border_radius=20" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suparna39&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00FFFF&icon_color=FF6B35&text_color=FFFFFF&border_radius=20" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suparna39&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00FFFF&icon_color=FF6B35&text_color=FFFFFF&border_radius=20" width="45%"/>
 </div>
 
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Boredooms&theme=synthwave&hide_border=true&background=0D1117,1a1a2e,16213e,0f3460&stroke=00FFFF&ring=FF6B35&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&border_radius=20" width="90%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=suparna39&theme=synthwave&hide_border=true&background=0D1117,1a1a2e,16213e,0f3460&stroke=00FFFF&ring=FF6B35&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&border_radius=20" width="90%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Boredooms&theme=synthwave&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=suparna39&theme=synthwave&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
 
 ---
