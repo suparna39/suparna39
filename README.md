@@ -166,7 +166,6 @@
   we architect realities and birth digital universes.<br>
   Every function is a spell, every algorithm a portal to the future."</em>
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=Boredooms&icon=3&color=8&style=for-the-badge&labelColor=000000" alt="Profile Views" />
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=900&size=20&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&random=false&width=600&height=50&lines=THANK+YOU+FOR+ENTERING+THE+MATRIX;MAY+THE+CODE+BE+WITH+YOU;END+OF+TRANSMISSION..." alt="Outro Typing SVG" />
   <br>
