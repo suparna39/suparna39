@@ -112,13 +112,13 @@
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=900&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=60&lines=▞▚+STATS+&+ACHIEVEMENTS+▚▞" alt="Stats Glitch" />
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Matrix_Rain.gif" width="80%" height="18" alt="matrix rain"/>
-</div> -->
+</div> 
 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=suparna39&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00FFFF&icon_color=FF6B35&text_color=FFFFFF&border_radius=20" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suparna39&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00FFFF&icon_color=FF6B35&text_color=FFFFFF&border_radius=20" width="45%"/>
-</div>
+</div> -->
 
 
 <div align="center">
