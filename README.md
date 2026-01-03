@@ -3,9 +3,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420" alt="Mario coding all night" style="margin-bottom:12px;box-shadow:0 0 12px #00fff7;"/>
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Matrix_Rain.gif" width="100%" height="80" alt="matrix rain background"/>
   <h1 style="font-family: 'Fira Mono', 'Consolas', monospace; color: #00fff7; font-size: 2.5em; letter-spacing: 2px; text-shadow: 0 0 10px #00fff7, 0 0 20px #00fff7;">
-    <span style="filter: drop-shadow(0 0 8px #00fff7);">▞▚▞▚</span> DEVARGHO CHAKRABORTY <span style="filter: drop-shadow(0 0 8px #00fff7);">▚▞▚▞</span>
+    <span style="filter: drop-shadow(0 0 8px #00fff7);">▞▚▞▚</span> Suparna Panda <span style="filter: drop-shadow(0 0 8px #00fff7);">▚▞▚▞</span>
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=900&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=60&lines=⚡+QUANTUM+DEVELOPER+%7C+BLOCKCHAIN+ARCHITECT+%7C+AI+NEURAL+ENGINEER+%7C+HACKATHON+DOMINATOR+%7C+WEB3+PIONEER+%7C+FUTURE+ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=900&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=60&lines=⚡+AI/ML+DEVELOPER+%7C+Web3+Explorer+%7C+AI+NEURAL+ENGINEER+%7C+HACKATHON+DOMINATOR+%7C+WEB2+PIONEER+%7C+FUTURE+ARCHITECT" alt="Typing SVG" />
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Matrix_Rain.gif" width="100%" height="18" alt="matrix rain divider"/>
 </div>
 
@@ -25,13 +25,13 @@
 
 <div align="center">
   <div style="background:rgba(13,17,23,0.95);border:2px solid #00fff7;border-radius:14px;box-shadow:0 0 16px #00fff7;padding:18px 12px 8px 12px;max-width:600px;">
-    <b>🔮 THE QUANTUM DEVELOPER'S ODYSSEY</b>
+    <b>🔮 THE AI/ML DEVELOPER'S ODYSSEY</b>
     <p style="color:#fff; font-size:1.1em;">Greetings from the <b>Digital Dimension</b>! I'm <b>Suparna Panda</b>, a <b>AI-ML Developer</b> & <b>Web3 Explorer</b> from <b>India 🇮🇳</b>.<br><br>
     I traverse the multiverse of code, blending <b>quantum algorithms</b>, <b>neural networks</b>, and <b>blockchain</b> to architect digital realities.<br><br>
     <b>Specialties:</b><br>
     🌌 <b>Frontend Universes</b> — React, Next.js, Angular<br>
     🔗 <b>Blockchain Dimensions</b> — Smart Contracts, DeFi<br>
-    🤖 <b>AI Neural Networks</b> — ML, Deep Learning<br>
+    🤖 <b>AI Neural Networks</b> — Supervised and unsupervised learning, data preprocessing, feature engineering, model training and evaluation, exploratory data analysis (EDA), statistical analysis, data cleaning, visualization concepts, and basic natural language processing (NLP).<br>
     🛡️ <b>Security Fortresses</b> — Quantum Encryption<br><br>
     <b>Mission:</b> Architecting the decentralized future, pushing the boundaries of AI & Web3.<br>
     </p>
